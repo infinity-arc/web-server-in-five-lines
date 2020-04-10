@@ -15,7 +15,7 @@ Or follow the instructions below to create your own.
 
 There is also a youtube video if you like that kind of stuff at ###add youtub video link###
 
-![Express Server in 5 lines of code](https://youtu.be/LbX3hdYNSaY)
+[![Express Server in 5 lines of code]()](https://youtu.be/LbX3hdYNSaY)
 
 ## Only steps not shown:
 
