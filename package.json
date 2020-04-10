@@ -11,5 +11,14 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infinity-arc/web-server-in-five-lines.git"
+  },
+  "bugs": {
+    "url": "https://github.com/infinity-arc/web-server-in-five-lines/issues"
+  },
+  "homepage": "https://github.com/infinity-arc/web-server-in-five-lines#readme"
 }
