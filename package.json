@@ -1,0 +1,15 @@
+{
+  "name": "5lines-of-web-host",
+  "version": "1.0.0",
+  "description": "* Create a new directory for the project and name it whatever, in this case it is called `5lines-of-webhost`. * Start vscode with the new directory as the project root.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "Cliff Crerar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
