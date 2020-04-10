@@ -1,3 +1,20 @@
+# Fast no nonsense expressjs web host
+#### Start a web server in less than 10 minutes writing only 5 lines of serverside code.
+
+# if you are cloning the project simply run:
+
+1. `git clone https://github.com/infinity-arc/web-server-in-five-lines.git`
+
+2. `npm install`
+
+3. `npm start`
+
+---
+
+Or follow the instructions below to create your own. 
+
+There is also a youtube video if you like that kind of stuff at ###add youtub video link###
+
 ## Only steps not shown:
 
 * Create a new directory for the project and name it whatever, in this case it is called `5lines-of-webhost`.
