@@ -32,7 +32,7 @@ Lets begin.
 
 4. Now we will write our 5 lines of code.
 
-5. Run the web server using `node app` in the comman line, whatever it maybe.
+5. Run the web server using `node app` in the comman line, whatever it may be.
 
 > Note worthy is that none of this will work if Nodejs is not installed in your environment.
 
